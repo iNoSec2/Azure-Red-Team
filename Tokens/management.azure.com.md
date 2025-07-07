@@ -1,4 +1,4 @@
-Step-by-Step: Use an Azure Access Token with **management.azure.com**
+Use an Azure Access Token with **management.azure.com**
 
 Decoding Your Access Token
 If you want to inspect your token and see what it allows, paste it into https://jwt.ms or https://jwt.io and check:
